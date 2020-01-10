@@ -2,191 +2,136 @@
 marp: true
 theme: "black"
 transition: "none"
-header: 'REEDEX'
-footer: '技術交流会 2019/12'
+header: "REEDEX"
+footer: "技術交流会 2020/01"
 ---
 
-# 2019/12 技術交流会
-11月のニュースと雑感纏め
+# 2020/01 技術交流会
 
----
-
-今回が初めてなので
-11月だけじゃなく
-今年出た記事が混ざっております
+今月のニュースと雑感纏め
 
 ---
 
-## Google関連3連発
-
-[GoogleがSMSを脱却するために動き出す](https://wired.jp/2019/11/06/google-android-rcs-messaging/)
-確かに統一の為に動けるとしたらGoogleくらいしかいないのはわかる
-……が、今更感が強いですわよ
+# 最近のChrome
+[Chrome 関連の更新内容](https://qiita.com/ykyk1218/items/59d0307c3c129a2933ee)
 
 ---
 
-## Google関連3連発
+# Googleによる自然言語検索
+[Google、日本語を含む 70 以上の言語の検索で BERT を導入.](https://www.suzukikenichi.com/blog/bert-went-wild-in-over-70-languagages-including-japanese/)
 
-[GoogleがFitbit買収]()
-お前Pebbleどうしてくれんだよ
-個人情報は他では使用しないって言っときながら結局流用した実績があり
-欲しいのはFitbitのコミュニティと技術力という話もあるが
-そこにPebbleは入ってないんだよなあ……
-
----
-
-## Google関連3連発
-
-[Googleが検索エンジンにBERTを導入]()
-文章による検索能力が格段に向上
-文章から知りたい内容を類推してくれるように
-尚日本語は……
+[BERT の飛躍](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01129/120400002/)
+SEO 対策も変わってくるだろうなあ
+日本語、ちゃんと書けてますか？
 
 ---
 
-# Yahoo!とLINEが事業統合
-お前らマジでどこをどうやったら合体できるの？
+# バズったネタを自動でTシャツ化してた話
+[ギズモード・ジャパン: お見事です。T シャツのデザイン盗用を、AI とツイートで返り討ち.](https://www.gizmodo.jp/2019/12/i-want-that-on-a-t-shirt.html)
 
----
+裏でこんなこと起こってたのか
 
-# Yahoo!とLINEが事業統合
-
-LINEはLINEPayでクレジットカード機能統合がJCBとの話し合いが縺れた為に一手遅れた
-Yahoo!はブラウザコンテンツは揃っているが、ブラウザのホームページに居座ることが出来てしまったため、アプリを甘く見ていた結果放置していた
-その点LINEはクーポンやLINEPayなどの機能統合展開により、スマホユーザには必ず入っているようなアプリになっている
-
----
-
-# Yahoo!とLINEが事業統合
-
-LINEは相手の資金力
-Yahoo!は相手のアプリが欲しいような状態？
-
-PayPayとLINEPayはそのまま残す方針って見たけれど
-なんというか本当にお金を融通しあうだけの関係になる？
-
----
-
-# 書籍紹介
-
-## インターフェースデザインのお約束
-みんな大好きオライリー
-優れたUXを実現するための101のルールを
-
-## AI VS 教科書が読めない子どもたち
-ビジネス書大賞受賞作品
-……まだ読んでないです
-読みます、はい
-内容のまとめ記事だけ読んだので雑感は今回の最後にあります
-
----
-
-# Webサイトを見るだけでお金が入る！？
-[Braveがバージョン1.0に](https://wired.jp/2019/11/19/brave-browser-ios-payments/)
-ブラウザを使ってWebサイトを見る＝Cookie等の情報を提供している
-ならばそれへの対価があってしかるべきだ
-という思想……であってるかな？
+[AI 監視ツール](https://wired.jp/2019/12/11/these-startups-are-building-tools-keep-eye-ai/)
 
 
 ---
 
-# 林檎信者のアーティスト涙目
-[AppleとNvidiaがお別れ](https://www.gizmodo.jp/2019/11/its-done-for-apple-and-nvidia.html)
+# みんな大好きJavaScript
 
-お絵かきソフトなんかの描画エンジンは大体Nvidiaのスペックとアルゴリズムをあてにしてたんだけど……、
-発色やフォントが綺麗だからMac使ってる人が多いイメージだったのに
-その辺のデザイナ連中を纏めて捨てる気ですか
+[最近の JS の進化](https://inspiredwebdev.com/everything-from-es-2016-to-es-2019)
+モダンなJS、書けてますか？
+
+CSSとJS今どうですか
+https://qiita.com/rana_kualu/items/8ae7a987b9468863a6f2
+
+---
+
+[AtlassianがFaaS作ったってよ](https://jp.techcrunch.com/2019/12/13/2019-12-12-atlassian-launches-new-serverless-cloud-development-platform/)
+
+---
+
+今月の笑い話
+[Dropboxで胃潰瘍](https://qiita.com/ktnyt/items/a4729e11b465c8f65478)
+
+
+---
+
+# 例外処理について
+[握りつぶすんじゃねえぞ……](https://qiita.com/Munchkin/items/48897c98c8b9749d66b5)
+
+
+---
+
+# LINE Botという選択肢
+[LINE公式アカウントで作る話](https://www.slideshare.net/hiroyukihiki/line-141383739)
+
+---
+
+# オンラインとオフラインの境を無くすこと
+
+[トイザらスの店内監視カメラについて](https://wired.jp/2019/12/16/toys-r-us-surveillance/)
+どうせネットサーフィンしてたらこれ以上にデータ取られてんだよ
+
+
+---
+
+# やっと纏まりが出てきました
+[AIスピーカーの規格がまとまるよ](https://internet.watch.impress.co.jp/docs/column/curation/1227533.html)
+
+---
+
+# 傍から見える企業戦略
+[VMWareの買収の話](https://note.com/hamanakak/n/ne154b24c96d6)
+
 
 ---
 
 # 雑談
-[フルスタックエンジニアって](https://paiza.hatenablog.com/entry/2014/05/13/35%E6%AD%B3%E5%AE%9A%E5%B9%B4%E8%AA%AC%E3%82%88%E3%82%8A%E6%80%96%E3%81%84%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%97%E3%81%8B%E7%94%9F)
 
+[長いトイレの話](https://gigazine.net/news/20191219-standardtoilet-employees-productivity/)
 
-とはいえ最近mBaasとかが発達してきたおかげでインフラサイドの知識が正直要らなくなってきた感がある
-従来のインフラの知識はLAMP環境が作れてセキュリティがどうのこうのとか
-ちょっと前のだとMEAN環境がどうのこうのとか
+[ハサミの絵文字の実用性](https://gigazine.net/news/20200106-which-emoji-scissors-close/)
 
-全部AWSとかFirebaseとかにぶん投げてフロントエンドだけでシステム構築できちゃうじゃん？
+IOTの互換性が改善されるかも
 
-となるとそっちでいいのでは？
+https://japanese.engadget.com/2019/12/18/apple-amazon-google-it-3-connected-home-over-ip/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAGZqeFkD2uPAM4pZSp0AhIbNvi7SSbLd76x4YlqY3AVlayc2PRaLfngqM1VxVydsyhDDBglh-IHeKyAfSMgt1RGArmkuv_RbdYZLzaV-TYIY3oAztxtSRNL3GpASs9QdBWL9h8SGOPSv6cfPPOOmt3k9raTnu5RyZ1OqMWdm6SpU
 
-
----
-
-# これからのクラウド
-
-[AWS、日本の公共分野向け「ようやく体制整った」](https://www.nikkei.com/article/DGXMZO42762910S9A320C1000000/)
-お国が公共事業向けのクラウドとしてAWSを選択した
-なおアメリカはAzureだったようだが
-
-そんなわけでAWS案件が増えてくかもよ？
-
----
-
-# なお最近の笑い話
-
-[クラウドネイティブとは](https://www.atmarkit.co.jp/ait/articles/1911/26/news007.html)
-
-そもそもクラウドは全体で一つ
-
-一つ一つは落ちることを前提
-
-「このアプリは落とさないでくれ」とか何を言っておられるのかと
-
----
-
-# VSCodeのダイマ
-
-[FacebookがVSCodeを指定](http://japan.zdnet.com/article/35145738/)
-VSCodeはいいぞ
-
-ラズパイに入るかと思ったら昨日じゃ入らなかったよ……
-
-出来ればこの発表もラズパイでやりたかった。。。
-
-いやまあHTMLに出力したらできるんだけど
-
----
-
-# AIとの付き合い方
-
-[AIとの付き合い方](https://wired.jp/2019/11/27/viral-app-labels-you-isnt-what-you-think/)
-
-AppleCardの男女差別の件
-* 男女差別はしないと言い張るAppleCardにて、住所、年収が同じ夫婦間で借入可能金額が6倍近い差になったことへの不満
-* 入力情報として性別を入れてないとしても、使用履歴や住所といった性別を類推可能なデータによりほぼ特定される
 
 
 ---
 
-# AIとの付き合い方
+# マルチプラットフォーム開発基盤
+まーたマルチプラットフォームの開発環境が出たぞ
+C#でWebAssemblyにするのか・・・
+Xamarinとは違うのね
+[Uno Platform](https://platform.uno/)
 
-AIになんでもかんでも任せきりではなく、どうしてその判断に至ったのかという根拠をAIから事情聴取できるようにするべきという話はちょっと前から出ていました
-説明可能なAI　や　XAIなんかの単語でゴロゴロ出てきます
-また、説明が出来た場合でも、それが求めた内容でなかった場合、いわば知性のリビルドを行う為にはどのような情報を与えればよかったのか
-
----
-
-# AI VS 教科書が読めない子どもたち
-という書籍が今年のビジネス書大賞に選ばれた
-
-また、今年ごたごたあった大学入試の記述式試験について
-お国が論理的思考力そのものを重視し始めた証であると思う
-
-今回実施者のごたごたで流れたけれど、また来年似たような騒動があるのか……
-ではなく、国を挙げてAIを使う側の人間となれるような教育を行うことが決定したという認識を持っていこう
 
 ---
 
-# Amazon CodeGuru
+アプリ作ろうぜ
+[作ってみた結果](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
 
-黒川さんが技術的なおはなしで言ってたやつ
+---
 
-[見せて貰おうか、Amazon新サービス「CodeGuru Reviewer」の性能とやらを](https://qiita.com/negi111111/items/510daace637b7c57c2da)
+# ちょっと頑張った
+MonacaとCircleCIとDeployGateでAndroidアプリ自動デプロイしてみた
 
-今はJavaのみなのか……
-JSやC#はもうちょっとお待ちを
+---
+
+Frameworkのトレンド推移
+http://hotframeworks.com/
+
+
+ドメイン[.org]を買収して……その後
+https://japanese.engadget.com/jp-2019-12-24-org.html
+
+---
+
+# 閑話休題
+
+トイレに角度をつけることで長時間座るのをできなくするって
+https://gigazine.net/news/20191219-standardtoilet-employees-productivity/
 
 ---
 
@@ -199,3 +144,5 @@ JSやC#はもうちょっとお待ちを
 * 言語/ライブラリのリリース情報
 * 開催前イベント
 * Qiita記事
+
+[N予備校やべえ](https://qiita.com/kurifox/items/1dd19dae11ffa21660c6)
