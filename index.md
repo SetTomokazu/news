@@ -3,135 +3,219 @@ marp: true
 theme: "black"
 transition: "none"
 header: "REEDEX"
-footer: "技術交流会 2020/01"
+footer: "技術交流会 2020/02"
 ---
 
-# 2020/01 技術交流会
+# 2020/02 技術交流会
 
 今月のニュースと雑感纏め
 
 ---
 
-# 最近のChrome
-[Chrome 関連の更新内容](https://qiita.com/ykyk1218/items/59d0307c3c129a2933ee)
 
----
 
-# Googleによる自然言語検索
-[Google、日本語を含む 70 以上の言語の検索で BERT を導入.](https://www.suzukikenichi.com/blog/bert-went-wild-in-over-70-languagages-including-japanese/)
-
-[BERT の飛躍](https://tech.nikkeibp.co.jp/atcl/nxt/column/18/01129/120400002/)
-SEO 対策も変わってくるだろうなあ
-日本語、ちゃんと書けてますか？
-
----
-
-# バズったネタを自動でTシャツ化してた話
-[ギズモード・ジャパン: お見事です。T シャツのデザイン盗用を、AI とツイートで返り討ち.](https://www.gizmodo.jp/2019/12/i-want-that-on-a-t-shirt.html)
-
-裏でこんなこと起こってたのか
-
-[AI 監視ツール](https://wired.jp/2019/12/11/these-startups-are-building-tools-keep-eye-ai/)
+# Vue.js関連
+## ベストプラクティスについて
+[Vue開発者のためのVue.jsベストプラクティス集15選](https://qiita.com/mtoyopet/items/87a32d8e3497c5421727)
 
 
 ---
 
-# みんな大好きJavaScript
-
-[最近の JS の進化](https://inspiredwebdev.com/everything-from-es-2016-to-es-2019)
-モダンなJS、書けてますか？
-
-CSSとJS今どうですか
-https://qiita.com/rana_kualu/items/8ae7a987b9468863a6f2
-
----
-
-[AtlassianがFaaS作ったってよ](https://jp.techcrunch.com/2019/12/13/2019-12-12-atlassian-launches-new-serverless-cloud-development-platform/)
-
----
-
-今月の笑い話
-[Dropboxで胃潰瘍](https://qiita.com/ktnyt/items/a4729e11b465c8f65478)
+# Vue.js関連
+## 事例紹介
+[Vue.jsで作成された、ちょっと面白くて役立ちそうなサービス - Qiita](https://qiita.com/s-yoshiki/items/51150b37153b41df1da6)
 
 
 ---
 
-# 例外処理について
-[握りつぶすんじゃねえぞ……](https://qiita.com/Munchkin/items/48897c98c8b9749d66b5)
+# ツール紹介
+## プロジェクトの情報を一か所に集約するツール
+[Notion](https://www.notion.so/)
 
 
 ---
 
-# LINE Botという選択肢
-[LINE公式アカウントで作る話](https://www.slideshare.net/hiroyukihiki/line-141383739)
+# Windows7は死なない その1
+
+[GIZMODO JAPAN: サポート終了したはずのWindows 7にアプデ配信が決定！](https://www.gizmodo.jp/2020/01/microsoft-new-windows-7-update.html)
 
 ---
 
-# オンラインとオフラインの境を無くすこと
+# Windows7は死なない その2
 
-[トイザらスの店内監視カメラについて](https://wired.jp/2019/12/16/toys-r-us-surveillance/)
-どうせネットサーフィンしてたらこれ以上にデータ取られてんだよ
-
-
----
-
-# やっと纏まりが出てきました
-[AIスピーカーの規格がまとまるよ](https://internet.watch.impress.co.jp/docs/column/curation/1227533.html)
-
----
-
-# 傍から見える企業戦略
-[VMWareの買収の話](https://note.com/hamanakak/n/ne154b24c96d6)
-
-
----
-
-# 雑談
-
-[長いトイレの話](https://gigazine.net/news/20191219-standardtoilet-employees-productivity/)
-
-[ハサミの絵文字の実用性](https://gigazine.net/news/20200106-which-emoji-scissors-close/)
-
-IOTの互換性が改善されるかも
-
-https://japanese.engadget.com/2019/12/18/apple-amazon-google-it-3-connected-home-over-ip/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAGZqeFkD2uPAM4pZSp0AhIbNvi7SSbLd76x4YlqY3AVlayc2PRaLfngqM1VxVydsyhDDBglh-IHeKyAfSMgt1RGArmkuv_RbdYZLzaV-TYIY3oAztxtSRNL3GpASs9QdBWL9h8SGOPSv6cfPPOOmt3k9raTnu5RyZ1OqMWdm6SpU
+[もう不要ならWindows7をオープンソース化しろ！](https://forest.watch.impress.co.jp/docs/serial/yajiuma/1231926.html)
 
 
 
 ---
 
-# マルチプラットフォーム開発基盤
-まーたマルチプラットフォームの開発環境が出たぞ
-C#でWebAssemblyにするのか・・・
-Xamarinとは違うのね
-[Uno Platform](https://platform.uno/)
+# JavaScript関連
+
+[JavaScriptエンジンの仕組みをGIFアニメで分かりやすく解説 | コリス](https://coliss.com/articles/build-websites/operation/javascript/javascript-visualized-the-javascript-engine.html)
+
+---
+
+# JavaScript関連
+TypeScriptの話
+
+[この TypeScript が Hello, world! のくせに慎重すぎる - Qiita](https://qiita.com/matzkoh/items/90baab22ad489b78384b)
+
+---
+
+# ニュースサイト紹介
+
+プログラマ用ニュースサイト[TechFeed](https://techfeed.io/main/realtime/000000000000000000000000)
+の、Pro版が出たそうですよ
+
+[CodeZine（コードジン）: ITエンジニア向け情報サービスのエキスパート特化版「TechFeed Pro」のクローズドβがリリース](https://codezine.jp/article/detail/11939)
 
 
 ---
 
-アプリ作ろうぜ
-[作ってみた結果](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
+
+# ブラウザ関連
 
 ---
 
-# ちょっと頑張った
-MonacaとCircleCIとDeployGateでAndroidアプリ自動デプロイしてみた
+# ブラウザ関連
+## Flash
+[GIZMODO JAPAN: Flash、とうとうSafariプレビュー版にインスコできなくなる](https://www.gizmodo.jp/2020/01/flash-safari.html)
+
 
 ---
 
-Frameworkのトレンド推移
-http://hotframeworks.com/
+# ブラウザ関連
+## ユーザーエージェント
 
+[ユーザーエージェント（UA）文字列は時代遅れ？ ～「Google Chrome」で凍結・非推奨に](https://forest.watch.impress.co.jp/docs/serial/yajiuma/1229968.html)
 
-ドメイン[.org]を買収して……その後
-https://japanese.engadget.com/jp-2019-12-24-org.html
 
 ---
 
-# 閑話休題
+# 最近仕事でハマった話
 
-トイレに角度をつけることで長時間座るのをできなくするって
-https://gigazine.net/news/20191219-standardtoilet-employees-productivity/
+クラスを初期化する際に、C#にて多用している書き方がこちら
+
+* 引数沢山のコンストラクタ書かなくていい
+* 初期化時の{}内でメンバの過不足が分かる
+
+---
+
+```C#
+class A {
+    public string id { get; private set; }
+    public string name { get; private set; }
+}
+
+var a = new A() {
+    // この中でコード補完が効く
+    id = "id",
+    name = "name",
+};
+```
+---
+
+今Javaやってるんだけれど、Javaで似たような書き方ないかなあ
+
+---
+
+あった
+
+``` Java
+class A {
+    public String id;
+    public String name;
+}
+
+var a = new A() {
+    {
+        id = "id"
+        name = "name";
+    }
+};
+```
+
+---
+
+Lombok使ってる場合
+
+``` Java
+import Lombok.Value;
+
+@Value
+class A {
+    private final String id;
+    private final String name;
+}
+
+var a = new A() {
+    {
+        setId("id");
+        setName("name");
+    }
+};
+```
+
+---
+
+ちょっと気持ち悪いけどまあいいや！
+
+---
+
+が、この初期化をO/RマッパーのEntityクラスに使用するとまともに動作しない不具合が発生
+
+---
+
+この書き方が原因だということは分かったので全て書き直した
+
+---
+
+その後、どうしてそうなるのかを探して検索していると以下の記事を発見
+
+[JavaでもC#みたいなオブジェクト初期化子書けるんですよ](http://cs.hatenablog.jp/entry/2013/06/24/190945)
+
+---
+
+記事引用
+
+「コンストラクタ呼び出し直後に{ }ブロックを置くと匿名クラスの宣言・初期化になります。」
+
+---
+
+記事引用
+
+「C#ととても似た目で同じような記述ができるのですが内部的な意味はまったく異なるわけです。
+
+一時変数を一個追い出すために匿名クラスが一本できるわけで、これは省資源的にいかがなものかと言われればその通りですが、ラムダ式が一行にできるかできないかってときは正当化されそうです。」
+
+---
+
+記事引用
+
+「あと、厳密にPersonインスタンスを要求しているところに匿名拡張Personを渡したりすると当然怒られるので相手は選んでください。」
+
+---
+
+記事引用
+
+「***厳密にPersonインスタンスを要求しているところに匿名拡張Personを渡したりすると当然怒られる***」
+
+---
+
+この不具合の発見が19時くらいで、解明したのが21時頃でした
+
+---
+
+みなさんも、
+
+よくわからずに書いている文法が、実は思ってたことと違う！
+
+なんてことはありませんか？
+
+
+---
+
+よくよく気を付けましょう
 
 ---
 
@@ -144,5 +228,3 @@ https://gigazine.net/news/20191219-standardtoilet-employees-productivity/
 * 言語/ライブラリのリリース情報
 * 開催前イベント
 * Qiita記事
-
-[N予備校やべえ](https://qiita.com/kurifox/items/1dd19dae11ffa21660c6)
